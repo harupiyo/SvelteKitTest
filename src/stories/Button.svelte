@@ -38,5 +38,6 @@
   class={['storybook-button', `storybook-button--${size}`, mode].join(' ')}
   {style}
   on:click={onClick}>
+hello
   {label}
 </button>
